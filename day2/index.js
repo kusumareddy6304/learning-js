@@ -32,3 +32,5 @@
     
 //     // console.log(typeof userData[index]);  
 // }
+
+let userData1=[20,"hii",45,false];
