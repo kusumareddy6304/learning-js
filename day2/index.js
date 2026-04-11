@@ -33,4 +33,11 @@
 //     // console.log(typeof userData[index]);  
 // }
 
-let userData1=[20,"hii",45,false];
+// let userData1=[20,"hii",45,false];
+
+// console.log(userData1);
+// userData1.push(10);
+// userData1.pop();
+
+// userData1.shift();
+// userData1.unshift("riya");
