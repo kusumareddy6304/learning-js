@@ -121,4 +121,5 @@ doMath(2, 3, "*")
  console.log("hii this is "+name+"i am "+age);
  console.log(`hii this is ${name} my age is ${age}`);
  
-//${}-interpolation ``-templates
+//${}-interpolation, ``-templates
+
