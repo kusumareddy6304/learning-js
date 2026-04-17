@@ -1,5 +1,5 @@
 const add = () => {
-    event.preventDefault()
+    event.preventDefault()//It is used to stop the continuous reload process
 
     let val1 = Number(document.getElementById("value1").value)
     let val2 = Number(document.getElementById("value2").value)
