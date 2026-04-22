@@ -20,7 +20,7 @@
 const fetchAPI = async () => {
     let imageURL = null;
     try {
-        let res = await fetch("https://dog.ceo/api/breeds/image/random")
+        let res = await fetch("https://dog.ceo/api/breeds/image/random")//search free api for link
         let data = await res.json()//java script object notation
         imageURL = data.message
        
